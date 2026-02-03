@@ -1,0 +1,8 @@
+# Large artifacts
+embeddings/
+models/
+outputs/
+*.npy
+*.pkl
+*.parquet
+
